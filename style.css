@@ -39,7 +39,7 @@ body {
   opacity: 0;
 }
 .slide.active{
-  flex: 10;
+  flex: 15;
 }
  .slide.active h3 {
   opacity:1;
